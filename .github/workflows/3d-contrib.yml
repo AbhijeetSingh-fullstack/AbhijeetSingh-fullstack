@@ -16,6 +16,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - name: Fix invalid XML entities in generated SVGs
+        run: |
+          find profile-3d-contrib -name '*.svg' -exec \
+            perl -pi -e 's/&(?!amp;|lt;|gt;|quot;|apos;|#)/&amp;/g' {} \;
       - name: Commit to output branch
         run: |
           git config --global user.name "github-actions[bot]"
