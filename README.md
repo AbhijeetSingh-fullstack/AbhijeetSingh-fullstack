@@ -43,8 +43,8 @@ fun_fact: I vibe-code futuristic interfaces and turn ideas into interactive expe
 ## ⟶ Live Metrics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AbhijeetSingh-fullstack&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=8B5CF6&text_color=c9c9c9&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijeetSingh-fullstack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=c9c9c9" height="165"/>
+<img src="https://raw.githubusercontent.com/AbhijeetSingh-fullstack/github-stats/generated/overview.svg" height="165"/>
+<img src="https://raw.githubusercontent.com/AbhijeetSingh-fullstack/github-stats/generated/languages.svg" height="165"/>
 </div>
 
 <div align="center">
@@ -60,8 +60,6 @@ fun_fact: I vibe-code futuristic interfaces and turn ideas into interactive expe
 </div>
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=2&section=header" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=2&section=header" width="100%"/>
 
