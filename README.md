@@ -1,93 +1,90 @@
-<h1 align="center">Hi 👋, I'm Abhijeet Singh</h1>
-<h3 align="center">Full-Stack & Mobile Developer crafting futuristic cross-platform experiences</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=React+Native+%7C+Next.js+%7C+Kotlin;Building+scalable+mobile+%26+web+apps;Turning+ideas+into+interactive+experiences" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Abhijeet%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%26%20Mobile%20Developer&descAlignY=55&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+futuristic+mobile+experiences;React+Native+%E2%80%A2+Next.js+%E2%80%A2+Kotlin;Turning+ideas+into+interactive+products;Currently+exploring+Three.js+%26+animation" />
+
+<p>
+  <a href="https://linkedin.com/in/abhijeet-singh-a6571b325" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:abhijeet200508@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=AbhijeetSingh-fullstack&style=for-the-badge&color=302b63&label=PROFILE+VIEWS" />
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/abhijeet-singh-a6571b325" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:abhijeet200508@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=AbhijeetSingh-fullstack&style=for-the-badge&color=6a5acd" />
-  </a>
-</p>
+</div>
 
----
+<br/>
 
-### 💫 About Me
+## ⟶ About
 
-- 🔭 Currently building **futuristic cross-platform mobile applications** using React Native and modern frontend tech
-- 👯 Looking to collaborate on **React Native projects, mobile UI/UX**, and innovative startup ideas
-- 🤝 Looking for help with **advanced backend architecture** and scalable full-stack systems
-- 🌱 Currently learning **Next.js, Three.js, advanced animations**, and production-level mobile app architecture
-- 💬 Ask me about **React Native, Kotlin, API integration, mobile UI design**, and frontend development
-- ⚡ Fun fact: I enjoy vibe-coding futuristic interfaces and turning ideas into interactive mobile experiences
+```yaml
+role: Full-Stack & Mobile Developer
+focus: React Native, Next.js, Kotlin, cross-platform architecture
+exploring: Three.js, advanced animation, production-grade mobile apps
+open_to: React Native collabs · mobile UI/UX · startup ideas
+seeking_help_with: scalable backend architecture, full-stack systems design
+fun_fact: I vibe-code futuristic interfaces and turn ideas into interactive experiences overnight
+```
 
----
+<br/>
 
-### 💻 Tech Stack
+## ⟶ Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=c,cpp,dart,css,java,js,ts,react,nextjs,flutter,kotlin&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=vercel,netlify,firebase,postgres,githubactions,git,github,figma&theme=dark" />
 
-### 📊 GitHub Stats
+</div>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=AbhijeetSingh-fullstack&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AbhijeetSingh-fullstack&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AbhijeetSingh-fullstack&theme=ocean_dark&hide_border=false" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=2&section=header" width="100%"/>
 
-### 📈 Live Contribution Activity
+## ⟶ Live Metrics
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhijeetSingh-fullstack&theme=react-dark&hide_border=true&area=true" width="100%" />
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AbhijeetSingh-fullstack&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=8B5CF6&text_color=c9c9c9&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijeetSingh-fullstack&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=c9c9c9" height="165"/>
+</div>
 
-> The graph above pulls live commit data directly from GitHub every time your profile is viewed — no manual updates needed.
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=AbhijeetSingh-fullstack&theme=tokyonight&hide_border=true&background=0f0c29&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" />
+</div>
 
----
+<br/>
 
-### 🏆 GitHub Trophies
+## ⟶ Contribution Activity
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhijeetSingh-fullstack&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-</p>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhijeetSingh-fullstack&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=A78BFA&line=8B5CF6&point=ffffff&area=true&area_color=302b63" width="100%"/>
+</div>
 
-### 🔝 Top Contributed Repo
+<br/>
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AbhijeetSingh-fullstack&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
+## ⟶ Contribution Snake
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/AbhijeetSingh-fullstack/AbhijeetSingh-fullstack/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
 
-<p align="center"><i>Proudly built with ⚡ vibe coding — Abhijeet Singh</i></p>
+<sub>⚠️ The snake animation needs a one-time GitHub Action setup in your profile repo — instructions below.</sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=2&section=header" width="100%"/>
+
+## ⟶ Recognition
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AbhijeetSingh-fullstack&theme=tokyonight&no-frame=true&margin-w=8&row=1" />
+</div>
+
+<div align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=AbhijeetSingh-fullstack&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+<div align="center"><sub>Built with intention, not just badges — Abhijeet Singh</sub></div>
