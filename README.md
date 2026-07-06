@@ -76,12 +76,10 @@ fun_fact: I vibe-code futuristic interfaces and turn ideas into interactive expe
 ## ⟶ Recognition
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AbhijeetSingh-fullstack&theme=tokyonight&no-frame=true&margin-w=8&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=AbhijeetSingh-fullstack&theme=onedark&no-frame=true&margin-w=8&row=1" />
 </div>
 
-<div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=AbhijeetSingh-fullstack&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</div>
+<sub>⚠️ Public trophy/contributor-stat mirrors are volunteer-run and occasionally get rate-limited or paused. If this section looks blank on GitHub, it's the service, not your setup — see the note at the end for a self-hosted fix.</sub>
 
 <br/>
 
