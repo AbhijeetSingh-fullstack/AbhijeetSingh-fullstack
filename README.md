@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Abhijeet%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%26%20Mobile%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+futuristic+mobile+experiences;React+Native+%E2%80%A2+Next.js+%E2%80%A2+Kotlin;Turning+ideas+into+interactive+products;Currently+exploring+Three.js+%26+animation" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+futuristic+mobile+experiences;React+Native+%E2%80%A2+Next.js+%E2%80%A2+Kotlin;Turning+ideas+into+interactive+products;Currently+exploring+Three.js+%26+animation" />
 
 <p>
   <a href="https://linkedin.com/in/abhijeet-singh-a6571b325" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
